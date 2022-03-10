@@ -21,4 +21,4 @@
 |9. | LLR9 | Printing Alarm activation/deactivation | Printing the Message as "Alarm acticate/deactivate". |
 |10. | LLR10 | Pressing the switch four times | It shall approach the ligh. |
 |11. | LLR11 | Toggling LEDs anticockwise | All the LEDs are to be toggled in anticlockwise manner. | 
-|12. | LLR12 | Printing approch light | Printing the Message as "approch light". |
+|12. | LLR12 | Printing approch light | Printing the Message as "approach light". |
