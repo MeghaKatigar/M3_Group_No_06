@@ -16,6 +16,9 @@ When a user pushes a button on a car's key fob, a short-range radio transmitter 
 ![image](https://user-images.githubusercontent.com/66207959/157851432-53c680ab-0e45-4852-ae2f-ae63d062e775.png)
 
 The RKE's RF receiver in the vehicle captures the RF signal, demodulates it and sends the data stream to the CPU, which decodes it and sends commands to the command module. It also sens the car battery info, window, door and alarm status to the user.
+
+## SWOT Analysis
+![image](https://user-images.githubusercontent.com/66207959/157852244-aab27c72-d4af-4079-b7bd-25452b7c8db5.png)
 ## Requirements
 ## High Level Requirements
 |Sl.NO| ID | Title | Description |
