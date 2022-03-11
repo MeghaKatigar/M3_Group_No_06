@@ -14,6 +14,9 @@ When a user pushes a button on a car's key fob, a short-range radio transmitter 
 
 The RKE's RF receiver in the vehicle captures the RF signal, demodulates it and sends the data stream to the CPU, which decodes it and sends commands to the command module.
 
+# SWOT Analysis
+SWOT (strengths, weaknesses, opportunities, and threats) analysis is a method for identifying and analyzing internal strengths and weaknesses and external opportunities and threats that shape current and future operations and help develop strategic goals.
+![image](https://user-images.githubusercontent.com/66207959/157828097-8f6a0ec6-a717-45ad-8bd5-6b505bf931f7.png)
 # Remote Keyless Entry
 ## Requirements
 ## High Level Requirements
