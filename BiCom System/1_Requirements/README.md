@@ -8,9 +8,7 @@ Keyless remotes contain a short-range radio transmitter, and must be within a ce
 The two most important components of RKE are Key fob transmitter with Receiver  and a Transmitter with receiver inside the vehicle
 
 ## Key fob Transmitter with receiver
-![image](https://user-images.githubusercontent.com/66207959/157851011-26fcd259-79b3-468e-a4a5-dce79f44fc09.png)![image](https://user-images.githubusercontent.com/66207959/157869549-158631ae-57d2-4eb1-8c4b-ba7872ab6214.png)
-
-
+![image](https://user-images.githubusercontent.com/66207959/157869878-bdef4063-81e3-4d66-bcbf-2e392518e6bb.png)
 When a user pushes a button on a car's key fob, a short-range radio transmitter in the fob sends a distinct coded signal to a receiver unit in the car. That as a result unlocks or locks the doors. And the key fob receives the signal from vehicle. The car battery info, window, door and alarm status is displayed.
 
 ## Transmitter with Receiver Module inside vehicle
