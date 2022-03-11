@@ -10,7 +10,7 @@
 * The remote keyless system’s receiver in the car captures the RF signal, extracts it and sends the data stream to the CPU.
 * The CPU decodes it and sends commands to the command module.
 * The toggling of LEDs happen according to the command
-* The car sends the signal as well and displays the window, alaram and door status and car batter info
+* The car sends the signal as well and displays the window, alarm and door status and car batter info
 ## Functional Diagram 
 ![team 5 functional structural (3)](https://user-images.githubusercontent.com/98849909/157704523-0a78a912-ec27-4792-b581-a785f47024dd.png)
 
