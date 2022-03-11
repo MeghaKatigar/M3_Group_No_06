@@ -13,7 +13,7 @@
 |---|---|---|---|---|---|
 |01|Pressing the Switch | Setting High at GPIO pin| Button is SET | Button is SET|✔️|
 
-#Output
+# Output
 ## 1) When the switch is pressed for one time 
 - It should turn ON all the LED's.
  
