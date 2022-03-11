@@ -1,3 +1,5 @@
+# Abstract
+With the rapid growth in the automobile industry and the advancement in the embedded technology, the traditional mechanical key for operating vehicles is gradually replaced by Remote Keyless Entry (RKE) system. Enabling RKE system in vehicles not only improves the security of car access but also facilitates convenience to users. In this project, we have worked on the Locking and unlocking of automobile remotely. The proposed RKE system uses the radio waves on a particular frequency to transmit and receive the data. This system achieves authentication of car by preserving privacy of the communicating entities.
 # Remote Keyless Entry
 ## Requirements
 ## High Level Requirements
