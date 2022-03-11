@@ -2,6 +2,18 @@
 With the rapid growth in the automobile industry and the advancement in the embedded technology, the traditional mechanical key for operating vehicles is gradually replaced by Remote Keyless Entry (RKE) system. Enabling RKE system in vehicles not only improves the security of car access but also facilitates convenience to users. In this project, we have worked on the Locking and unlocking of automobile remotely. The proposed RKE system uses the radio waves on a particular frequency to transmit and receive the data. This system achieves authentication of car by preserving privacy of the communicating entities.
 # Description
 Keyless remotes contain a short-range radio transmitter, and must be within a certain range, usually 5–20 meters, of the car to work. When a button is pushed, it sends a coded signal by radio waves to a receiver unit in the car, which locks or unlocks the door.  Most RKEs operate at a frequency of 315 MHz for North America-made cars and at 433.92 MHz for European, Japanese and Asian cars. When you press a button on your key fob, you’re waking up its Central Processing Unit (CPU) inside.The CPU sends a data stream to the radio frequency (RF) transmitter. The keyless remote is actually a radio.This data stream contains command and for security, rolling codes. The remote keyless system’s receiver in the car captures the RF signal, extracts it and sends the data stream to the CPU. The CPU decodes it and sends commands to the command module. The toggling of LEDs happen according to the command. The functions of a remote keyless entry system are contained on a key fob. Buttons are dedicated to locking or unlocking the doors. Some remote keyless fobs also feature a red panic button which activates the car alarm as a standard feature.
+## Components
+The two most important components of RKE are Key fob transmitter and a receiver inside the vehicle
+### Key fob Transmitter
+![image](https://user-images.githubusercontent.com/66207959/157822771-a134c10f-0076-44a8-b559-210f4c1ff8d6.png)
+
+When a user pushes a button on a car's key fob, a short-range radio transmitter in the fob sends a distinct coded signal to a receiver unit in the car. That as a result unlocks or locks the doors.
+
+### Receiver Module inside vehicle
+![image](https://user-images.githubusercontent.com/66207959/157823490-582f8b62-195a-4896-9d4c-cc237840c922.png)
+
+The RKE's RF receiver in the vehicle captures the RF signal, demodulates it and sends the data stream to the CPU, which decodes it and sends commands to the command module.
+
 # Remote Keyless Entry
 ## Requirements
 ## High Level Requirements
