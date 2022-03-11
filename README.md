@@ -1,4 +1,4 @@
-# Contribution
+# Contribution of the team
 |S_No|Topics| Work done by|
 |---|---|---|
 |  01  | Requirements and Survey    | All the members|
