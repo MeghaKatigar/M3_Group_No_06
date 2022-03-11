@@ -12,5 +12,5 @@
 |03|Functional Diagram|Megha Katigar|
 |04|Flow chart|Kalyan Kumar|
 |05|Use Case Diagram|Abdul Haq Indikar|
-|06|Test Plan and Implementation for REK| Megha Katigar and Abdul Haq Indikar|
+|06|Test Plan and Implementation for RKE| Megha Katigar and Abdul Haq Indikar|
 |07|Test Plan and Implementation for BiCom| Kalyan Kumar and Vandana Devatkal|
