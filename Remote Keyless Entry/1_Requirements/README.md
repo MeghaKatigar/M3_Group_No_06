@@ -17,6 +17,8 @@ The RKE's RF receiver in the vehicle captures the RF signal, demodulates it and 
 # SWOT Analysis
 SWOT (strengths, weaknesses, opportunities, and threats) analysis is a method for identifying and analyzing internal strengths and weaknesses and external opportunities and threats that shape current and future operations and help develop strategic goals.
 ![image](https://user-images.githubusercontent.com/66207959/157828097-8f6a0ec6-a717-45ad-8bd5-6b505bf931f7.png)
+# 5W and 1H 
+![5W1H Chart](https://user-images.githubusercontent.com/66207959/157845144-16deb622-c145-41ce-994b-c72547a822ab.png)
 # Remote Keyless Entry
 ## Requirements
 ## High Level Requirements
