@@ -19,6 +19,8 @@ The RKE's RF receiver in the vehicle captures the RF signal, demodulates it and 
 
 ## SWOT Analysis
 ![image](https://user-images.githubusercontent.com/66207959/157852244-aab27c72-d4af-4079-b7bd-25452b7c8db5.png)
+## 5W and 1H
+![5W1H Chart BiCom](https://user-images.githubusercontent.com/66207959/157853285-dd1bbb1a-579b-4a29-b437-cc72834f870f.png)
 ## Requirements
 ## High Level Requirements
 |Sl.NO| ID | Title | Description |
