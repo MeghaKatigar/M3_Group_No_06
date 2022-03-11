@@ -1,3 +1,9 @@
+#Badges
+
+|Codecy Security Scan||
+|---|---|
+|[![Codacy Security Scan](https://github.com/MeghaKatigar/M3_Group_No_06/actions/workflows/codacy.yml/badge.svg)](https://github.com/MeghaKatigar/M3_Group_No_06/actions/workflows/codacy.yml)||
+
 # Contribution of the team
 |S_No|Topics| Work done by|
 |---|---|---|
