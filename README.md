@@ -1,8 +1,8 @@
 # Badges
 
-|Codecy Security Scan||
+|Codecy Security Scan|CodeQL|
 |---|---|
-|[![Codacy Security Scan](https://github.com/MeghaKatigar/M3_Group_No_06/actions/workflows/codacy.yml/badge.svg)](https://github.com/MeghaKatigar/M3_Group_No_06/actions/workflows/codacy.yml)||
+|[![Codacy Security Scan](https://github.com/MeghaKatigar/M3_Group_No_06/actions/workflows/codacy.yml/badge.svg)](https://github.com/MeghaKatigar/M3_Group_No_06/actions/workflows/codacy.yml)|[![CodeQL](https://github.com/MeghaKatigar/M3_Group_No_06/actions/workflows/codeql.yml/badge.svg)](https://github.com/MeghaKatigar/M3_Group_No_06/actions/workflows/codeql.yml)|
 
 # Contribution of the team
 |S_No|Topics| Work done by|
