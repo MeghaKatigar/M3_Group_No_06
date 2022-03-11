@@ -1,8 +1,11 @@
 # Architecture
+## Black Box
+![image](https://user-images.githubusercontent.com/66207959/157849110-63f1b74f-4038-4317-9270-66fbd8ea2d84.png)
+
 ## UML Usecase
 ![Blank diagram (2)](https://user-images.githubusercontent.com/98849909/157645507-9053bb5b-582c-4482-bb5f-d660d86c1a71.png)
 ## Block Diagram
-![BiCom System](https://user-images.githubusercontent.com/66207959/157848138-8bd24489-ea2a-4f50-89f3-8bafd892a261.png)
+![BiCom System](https://user-images.githubusercontent.com/66207959/157849274-f0eb05c1-74af-46bf-8da0-d645bf09e12f.png)
 ## Description of block diagram
 * When you press a button on your key fob, you’re waking up its Central Processing Unit (CPU) inside.
 * The CPU sends a data stream to the radio frequency (RF) transmitter. The keyless remote is actually a radio.
