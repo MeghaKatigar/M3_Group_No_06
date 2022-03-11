@@ -16,4 +16,6 @@
 * The car sends the signal as well and displays the window, alarm and door status and car batter info
 ## Functional Diagram 
 ![team 5 functional structural (3)](https://user-images.githubusercontent.com/98849909/157704523-0a78a912-ec27-4792-b581-a785f47024dd.png)
+## Flow chart
+![BiCom Flowchart](https://user-images.githubusercontent.com/66207959/157873672-74f5dc50-bacd-4999-b864-bc2fe64c4d25.png)
 
